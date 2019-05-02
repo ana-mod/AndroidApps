@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name">Wisielec</string>
+    <string-array name="words">
+        <item> abiudykacja </item>
+    <item> abrogacja </item>
+<item> abrogować </item>
+<item> abrogujący </item>
+<item> adiudykacja </item>
+<item> alimentacja </item>
+<item> alternat </item>
+<item> apelant </item>
+<item> argumentum </item>
+<item> asertoryczny </item>
+<item> asesura </item>
+<item> asystencja </item>
+<item> autoryzujący </item>
+<item> causa </item>
+<item> cedent </item>
+<item> cesjonariusz </item>
+<item> czteroprzymiotnikowy </item>
+<item> denaturalizacja </item>
+<item> denaturalizować </item>
+<item> denaturalizujący </item>
+<item> dermatoglifika </item>
+<item> dermatoglif </item>
+<item> derogacja </item>
+<item> derogować </item>
+<item> derogujący </item>
+<item> descendent </item>
+<item> dewolucja </item>
+<item> domicylować </item>
+<item> domicyl </item>
+<item> domicylujący </item>
+<item> dorobkowy </item>
+<item> dorozumiany </item>
+<item> drepcę </item>
+<item> drepczący </item>
+<item> dreptanina </item>
+<item> drobnostkowy </item>
+<item> dwumęstwo </item>
+<item> ekstradować </item>
+<item> ekstradujący </item>
+<item> emfiteuta </item>
+<item> emfiteutyczny </item>
+<item> emfiteuza </item>
+<item> ewikcja </item>
+<item> ewinkować </item>
+<item> ewinkujący </item>
+<item> fideikomis </item>
+<item> flagrante </item>
+<item> franszyza </item>
+<item> gorzkość </item>
+<item> grafometria </item>
+<item> holograf </item>
+<item> impedimenta </item>
+<item> incomunicado </item>
+<item> indemnizacja </item>
+<item> indosant </item>
+<item> indosatariusz </item>
+<item> instancyjny </item>
+<item> intestat </item>
+<item> iunctim </item>
+<item> ius </item>
+<item> judykacyjny </item>
+<item> judykatura </item>
+<item> jurysprudencja </item>
+<item> kodycylów </item>
+<item> kodyfikacja </item>
+<item> koncyliacja </item>
+<item> konsensualny </item>
+<item> kontradyktoryjny </item>
+<item> kontumacja </item>
+<item> konwalescencja </item>
+<item> korealny </item>
+<item> kryminalistyk </item>
+<item> legator </item>
+<item> legityma </item>
+<item> legować </item>
+<item> lex </item>
+<item> lucrum </item>
+<item> minorat </item>
+<item> nagromadzający </item>
+<item> nakazowy </item>
+<item> naroztrząsać </item>
+<item> nasciturus </item>
+<item> necessitas </item>
+<item> normatywistyczny </item>
+<item> normatywizm </item>
+<item> notyfikować </item>
+<item> notyfikujący </item>
+<item> nowacja </item>
+<item> omieszkający </item>
+<item> onus </item>
+<item> pandekty </item>
+<item> penalny </item>
+<item> penitencjaryzm </item>
+<item> penologia </item>
+<item> plea </item>
+<item> postglosator </item>
+<item> powoda </item>
+<item> powodowy </item>
+<item> praesumptio </item>
+<item> praeter </item>
+<item> prejudycjalny </item>
+<item> prejudykat </item>
+<item> prekarium </item>
+<item> prekluzja </item>
+<item> presumpcja </item>
+<item> procesualny </item>
+<item> przeciwdowód </item>
+<item> przysposabiający </item>
+<item> punitywny </item>
+<item> pupilarny </item>
+<item> ratio </item>
+<item> remonstracja </item>
+<item> res </item>
+<item> reservatio </item>
+<item> restitutio </item>
+<item> retroakcja </item>
+<item> retrocesja </item>
+<item> rewalidować </item>
+<item> rewalidujący </item>
+<item> sekwestr </item>
+<item> skutkuj±cy </item>
+<item> spadkobranie </item>
+<item> statuować </item>
+<item> stypulacja </item>
+<item> subrogacja </item>
+<item> substytuować </item>
+<item> subsydialny </item>
+<item> superarbiter </item>
+<item> suspensywny </item>
+<item> traseologia </item>
+<item> ułaskawiać </item>
+<item> ułaskawiaj±cy </item>
+<item> ubezwłasnowolniać </item>
+<item> uprawomocniający </item>
+<item> uwłasnowolnić </item>
+<item> uwłasnowolnicy </item>
+<item> vacatio </item>
+<item> windykacja </item>
+<item> windykować </item>
+<item> windykujący </item>
+<item> współsprawca </item>
+<item> zachowek </item>
+<item> zastawca </item>
+<item> zbywalność </item>
+    </string-array>
+    <string-array name="alphabet">
+        <item>a</item>
+        <item>ą</item>
+        <item>b</item>
+        <item>c</item>
+        <item>ć</item>
+        <item>d</item>
+        <item>e</item>
+        <item>ę</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>ł</item>
+        <item>m</item>
+        <item>n</item>
+        <item>ń</item>
+        <item>o</item>
+        <item>ó</item>
+        <item>p</item>
+        <item>r</item>
+        <item>s</item>
+        <item>ś</item>
+        <item>t</item>
+        <item>u</item>
+        <item>w</item>
+        <item>y</item>
+        <item>z</item>
+        <item>ź</item>
+        <item>ż</item>
+    </string-array>
+</resources>
